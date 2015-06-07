@@ -5,7 +5,7 @@
 Объявите две переменные: developer и name.
 Запишите в name строку 'Sergey'.
 Скопируйте значение из name в developer.
-Выведите admin (должно вывести 'Sergey').
+Выведите developer (должно вывести 'Sergey').
 
 ## Задание 2
 
