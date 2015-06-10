@@ -55,3 +55,8 @@ if (name == 'admin') {
   text = '';
 }
 ```
+
+## Codewars
+
+1.  http://www.codewars.com/kata/convert-a-number-to-a-string/
+2.  http://www.codewars.com/kata/convert-a-string-to-a-number/
