@@ -9,8 +9,8 @@
 var tasksCompleted = {
   'Anna': 29,
   'Serg': 35,
-  'Elena': 1
-  'Anton': 99,
+  'Elena': 1,
+  'Anton': 99
 };
 ```
 
@@ -26,10 +26,10 @@ var image = {
     title: 'Cool image'
 };
 
-multiplyNumeric(menu);
+multiplyNumeric(image);
 
 // after
-menu = {
+image = {
     width: 200,
     height: 800,
     title: 'Cool image'
