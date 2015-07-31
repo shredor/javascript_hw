@@ -24,6 +24,7 @@ body {
 
     height: 529px;
 
+    transition: margin-left 2s;
     white-space: nowrap;
 }
 
@@ -39,7 +40,7 @@ body {
     text-decoration: none;
 }
 
-.slider__pager_previous {
+.slider__pager_prev {
     float: left;
 
     margin-right: 5px;
